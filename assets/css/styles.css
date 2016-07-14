@@ -70,7 +70,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .name {
-  font-size: 30px;
+  font-size: 26px;
   font-weight: 900;
   margin-top: 0;
   margin-bottom: 10px;
@@ -95,9 +95,6 @@ p {
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
-}
-.sidebar-wrapper .contact-list .email .fa {
-  font-size: 14px;
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
@@ -131,7 +128,7 @@ p {
   font-weight: 500;
   margin-bottom: 0px;
 }
-.sidebar-wrapper .languages-container .lang-desc {
+.sidebar-wrapper .licenses-container .lic-desc, .sidebar-wrapper .languages-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
 }
 .sidebar-wrapper .languages-list {
